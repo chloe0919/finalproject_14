@@ -57,4 +57,4 @@ module LD_final_project(output reg [7:0] DATA_R, DATA_G, DATA_B,          //8X8 
 Demo影片展示:
 ---------
 
-[![Watch the video](https://drive.google.com/file/d/1VYdT2OcmZlyRFRfuL8p-2dCi0pFrzSgz/view)](https://drive.google.com/file/d/1VYdT2OcmZlyRFRfuL8p-2dCi0pFrzSgz/view)
+[![Watch the video](https://github.com/chloe0919/finalproject_14/blob/main/%E5%9C%96.png)](https://drive.google.com/file/d/1VYdT2OcmZlyRFRfuL8p-2dCi0pFrzSgz/view)
