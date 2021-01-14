@@ -53,3 +53,8 @@ module LD_final_project(output reg [7:0] DATA_R, DATA_G, DATA_B,          //8X8 
 	divfreq2 div2(CLK, CLK_mv);                                            //掉落物&人物移動除頻器
 	byte line, count, count1;                                              
 	integer a, b, c,d, touch,grade;                                        //touch:碰到綠色次數,grade:碰到藍色次數
+
+Demo影片展示:
+---------
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/drive/u/2/my-drive)
